@@ -30,7 +30,7 @@ body {
 	height: 3em;
 	align-self: center;
 	margin: 5px;
-	transition: all 1s ease-in;
+	transition: all 1s ease-out;
 }
 
 .menu-item:hover {
@@ -54,7 +54,7 @@ body {
 	text-transform: uppercase;
 	font-size: 4em;
 	text-align: center;
-	transition: all 1s ease-in;
+	transition: all 1s ease-out;
 }
 
 .title:hover {
